@@ -1,0 +1,6 @@
+https://raw.githubusercontent.com/rayzera1st/ggh/main/mnb.txt
+https://raw.githubusercontent.com/rayzera1st/ggh/main/mnbc.txt
+https://raw.githubusercontent.com/rayzera1st/ggh/main/srv.txt
+https://raw.githubusercontent.com/rayzera1st/ggh/main/ggh.txt
+https://raw.githubusercontent.com/rayzera1st/ggh/main/ggh2.txt
+https://raw.githubusercontent.com/rayzera1st/ggh/main/supported_servers.json
